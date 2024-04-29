@@ -1,5 +1,26 @@
-.table {
-    border-style: groove;
-    border: black;
-    border-width: 10%;
+table, th, td {
+    border: 1px ridge black;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 12%;
+    margin-bottom: auto;
+    font-size: 25px;
+    color: black;
+    
+}
+th{
+    background-color: aqua;
+}
+td{
+    background-color: aquamarine;
+}
+header {
+    text-align: center;
+    margin-top: 6%;
+    font-size: 500%;
+    color: antiquewhite;
+}
+html {
+    background-color: gray;
 }
